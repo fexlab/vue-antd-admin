@@ -65,10 +65,10 @@ export default {
 </script>
 
 <style lang="less" scoped>
-  .shadow{
+  .shadow {
     box-shadow: 2px 0 6px rgba(0,21,41,.35);
   }
-  .sider{
+  .sider {
     position: relative;
     z-index: 10;
     min-height: 100vh;
