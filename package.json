@@ -1,7 +1,14 @@
 {
   "name": "vue-antd-admin",
   "version": "1.0.0",
-  "private": true,
+  "description": "👨🏻‍💻👩🏻‍💻 Ant Design Pro implementation with Vue.",
+  "author": "Cafe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fexlab/vue-antd-admin.git"
+  },
+  "license": "MIT",
+  "private": false,
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
